@@ -1,0 +1,35 @@
+[
+  {
+    "employee_id":"E001",
+    "name":"Aarav Mehta",
+    "department":"Engineering",
+    "gender":"M",
+    "age":28,
+    "salary":85000,
+    "join_date":"2019-03-11",
+    "performance_score":4.2,
+    "remote":true
+  },
+  {
+    "employee_id":"E002",
+    "name":"Priya Nair",
+    "department":"Engineering",
+    "gender":"F",
+    "age":34,
+    "salary":102000,
+    "join_date":"2016-07-01",
+    "performance_score":4.7,
+    "remote":true
+  },
+  {
+    "employee_id":"E003",
+    "name":"Rohan Das",
+    "department":"Sales",
+    "gender":"M",
+    "age":41,
+    "salary":67000,
+    "join_date":"2014-01-20",
+    "performance_score":3.8,
+    "remote":false
+  }
+]

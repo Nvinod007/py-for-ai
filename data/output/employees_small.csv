@@ -1,0 +1,6 @@
+employee_id,name,department,gender,age,salary,join_date,performance_score,remote
+E001,Aarav Mehta,Engineering,M,28,85000,2019-03-11,4.2,True
+E002,Priya Nair,Engineering,F,34,102000,2016-07-01,4.7,True
+E003,Rohan Das,Sales,M,41,67000,2014-01-20,3.8,False
+E004,Sara Khan,Marketing,F,29,58000,2020-05-18,4.0,True
+E005,Vikram Rao,Finance,M,45,95000,2012-09-03,3.9,False

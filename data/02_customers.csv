@@ -1,0 +1,14 @@
+customer_id,name,city,signup_date,tier
+C001,Alice Johnson,New York,2023-06-01,Gold
+C002,Bob Smith,Los Angeles,2023-07-15,Silver
+C003,Carol White,Chicago,2023-08-20,Gold
+C004,David Brown,Houston,2023-09-05,Bronze
+C005,Eva Green,New York,2023-10-12,Silver
+C006,Frank Miller,Phoenix,2023-11-03,Bronze
+C007,Grace Lee,Chicago,2023-11-25,Gold
+C008,Henry Davis,Houston,2023-12-10,Bronze
+C009,Ivy Chen,New York,2024-01-02,Silver
+C010,Jack Wilson,Phoenix,2024-01-08,Bronze
+C011,Karen Young,Seattle,2024-01-15,Silver
+C012,Leo Martin,Seattle,2024-01-22,Gold
+C099,Zed Ghost,Boston,2024-02-01,Bronze

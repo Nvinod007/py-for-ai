@@ -1,0 +1,34 @@
+order_id,customer_id,order_date,customer_name,city,category,product,quantity,unit_price,discount,payment_method,rating,status
+1,C001,2024-01-05,  Alice Johnson ,New York,Electronics,Laptop,1,$1200.00,0.10,Credit Card,5,Delivered
+2,C002,2024-01-07,bob smith,los angeles,Electronics,Headphones,2,$150.00,0.00,paypal,4,Delivered
+3,C003,2024-01-10,CAROL WHITE,Chicago,Furniture,Desk,1,$350.00,0.05,Credit Card,,Delivered
+4,C004,2024-01-12,David Brown,Houston,Clothing,Jacket,3,$80.00,0.00,Debit Card,3,Returned
+5,C005,2024-01-15,Eva Green,New York,Clothing,Jeans,2,$60.00,0.15,Credit Card,4,Delivered
+6,C001,2024-01-20,Alice Johnson,New York,Electronics,Mouse,2,$25.00,,Credit Card,5,Delivered
+7,C006,2024-01-22,Frank Miller,Phoenix,Furniture,Chair,4,$120.00,0.10,PayPal,2,Delivered
+8,C007,January 25 2024,Grace Lee,Chicago,Electronics,Tablet,1,$450.00,0.00,Credit Card,5,delivered
+9,C008,2024-02-01,Henry Davis,Houston,Clothing,Sneakers,1,$95.00,0.20,Debit Card,,Cancelled
+10,C002,2024-02-03,Bob Smith,Los Angeles,Electronics,Keyboard,1,$70.00,0.00,PayPal,4,Delivered
+11,C009,2024-02-08,Ivy Chen,New York,Furniture,Bookshelf,1,$200.00,0.05,Credit Card,4,Delivered
+12,C010,2024-02-10,Jack Wilson,Phoenix,Clothing,T-Shirt,10,$15.00,0.00,Cash,3,Delivered
+13,C003,2024-02-14,Carol White,Chicago,Electronics,Monitor,2,$220.00,0.10,Credit Card,5,Delivered
+14,C011,2024-02-18,Karen Young,Seattle,Furniture,Desk,1,$350.00,0.00,PayPal,,DELIVERED
+15,C012,2024-02-20,Leo Martin,Seattle,Electronics,Laptop,1,"$1,200.00",0.15,Credit Card,4,Delivered
+16,C004,2024-02-25,David Brown,Houston,Clothing,Jacket,1,$80.00,0.00,Debit Card,3,Delivered
+17,C013,2024-03-02,Mia Scott,Chicago,Clothing,Dress,2,$110.00,0.10,Credit Card,5,Delivered
+18,C014,2024-03-05,Noah King,New York,Electronics,Headphones,1,$150.00,0.00,Credit Card,4,Delivered
+19,C015,2024-03-09,Olivia Hall,Los Angeles,Furniture,Sofa,1,$900.00,0.10,Debit Card,5,Delivered
+20,C005,2024-03-12,Eva Green,New York,Clothing,Jeans,1,$60.00,0.00,Credit Card,4,Delivered
+21,C016,2024-03-15,Paul Adams,Phoenix,Electronics,Laptop,-1,$1200.00,0.00,Credit Card,1,Returned
+22,C017,2024-03-18,Quinn Baker,Houston,Electronics,Mouse,200,$25.00,0.00,PayPal,3,Delivered
+23,C006,2024-03-22,Frank Miller,Phoenix,Furniture,Chair,2,$120.00,0.05,PayPal,3,Delivered
+24,C018,2024-03-25,Rita Perez,Seattle,Clothing,Jacket,2,$80.00,0.10,Credit Card,4,Delivered
+25,C019,2024-04-01,Sam Turner,Chicago,Electronics,Tablet,1,$450.00,0.00,Debit Card,,Delivered
+26,C020,2024-04-04,Tina Clark,New York,Furniture,Desk,2,$350.00,0.10,Credit Card,5,Delivered
+27,C007,2024-04-08,Grace Lee,Chicago,Electronics,Headphones,1,$150.00,0.05,Credit Card,5,Delivered
+28,C021,2024-04-12,Uma Lewis,Los Angeles,Clothing,Sneakers,2,$95.00,0.00,PayPal,4,Delivered
+29,C010,2024-04-15,Jack Wilson,Phoenix,Clothing,Jeans,3,$60.00,0.00,Cash,3,Delivered
+30,C022,2024-04-20,Victor Hill,Houston,Furniture,Chair,1,$120.00,0.00,Credit Card,,Delivered
+31,C023,2024-04-22,Wendy Moore,,Electronics,Monitor,1,,0.10,Credit Card,4,Delivered
+5,C005,2024-01-15,Eva Green,New York,Clothing,Jeans,2,$60.00,0.15,Credit Card,4,Delivered
+13,C003,2024-02-14,Carol White,Chicago,Electronics,Monitor,2,$220.00,0.10,Credit Card,5,Delivered
